@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3a461fa05c3e4e5459f4c8d3c16e29d2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _AlphaMask: {instanceID: 0}
+  - _NormalMap: {instanceID: 0}
+  - _ParallaxMap: {instanceID: 0}
+  - _RoughnessMap: {instanceID: 0}
+  - _LayerSurface0: {instanceID: 0}
+  - _LayerSurface1: {instanceID: 0}
+  - _LayerSurface2: {instanceID: 0}
+  - _LayerSurface3: {instanceID: 0}
+  - _LayerSurface4: {instanceID: 0}
+  - _LayerSurface5: {instanceID: 0}
+  - _LayerSurface6: {instanceID: 0}
+  - _LayerSurface7: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
