@@ -3,7 +3,217 @@ guid: 18c60ada6d564e74381ddeacb5b70530
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Frontal_lobe_Mat_XSIPOLYCLS_brain_frontal_lobe_mat1
+    second: {fileID: 2100000, guid: f9ff7e48fa3677e4fb46789997475580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Frontal_lobe_Mat_XSIPOLYCLS_brain_frontal_lobe_mat3
+    second: {fileID: 2100000, guid: 0598f6f1b4fd7f346acc6aa39bd8d792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Occipital_Lope_Mat_XSIPOLYCLS_brain_occipital_lope_mat1
+    second: {fileID: 2100000, guid: 1716a93c7b9d8c248afb61382af69da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Occipital_Lope_Mat_XSIPOLYCLS_brain_occipital_lope_mat3
+    second: {fileID: 2100000, guid: 9066e72a9b2fdae489ac422686afe399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Parietal_Lobe_Mat_XSIPOLYCLS_brain_parietal_lobe_mat1
+    second: {fileID: 2100000, guid: 0df17b4b9b705144ba28f94d4b2ea852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Parietal_Lobe_Mat_XSIPOLYCLS_brain_parietal_lobe_mat3
+    second: {fileID: 2100000, guid: d31cd5da1e37e3349940b21742d826b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Temporal_lobe_Mat_XSIPOLYCLS_brain_temporal_lobe_mat1
+    second: {fileID: 2100000, guid: 4742f2d203cba7a42b2a96d7370d51c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain_Temporal_lobe_Mat_XSIPOLYCLS_brain_temporal_lobe_mat3
+    second: {fileID: 2100000, guid: 2e96d04c96d413c41a0ff76acfb10112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: autonomic_nerves_mat1
+    second: {fileID: 2100000, guid: e3cc910a81fb4b64992b5fbbdf7ce19f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basil_mat1
+    second: {fileID: 2100000, guid: 4b1d839ae3567304392fdb44d58ad5b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: basil_mat3
+    second: {fileID: 2100000, guid: d30cd289f0721b1428c5ff6e11d37d3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 28115068cef75514bbd500aae6726f6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bones_mat3
+    second: {fileID: 2100000, guid: f9d0d020a3aa302498799ad5b1869519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cerebellum_mat1
+    second: {fileID: 2100000, guid: 73ae7c36fb0c96042958bd614d01ece1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cerebrum1
+    second: {fileID: 2100000, guid: c6bfe0bda6b5e9843ae82d501bbb7f44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cerebrum3
+    second: {fileID: 2100000, guid: d986efb0ddbb4f6499e81f829c5f901d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cervical_nerves_mat1
+    second: {fileID: 2100000, guid: 977b5c462fca4ac41b52cab53f7b5392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cervical_nerves_mat3
+    second: {fileID: 2100000, guid: 598cfa7ac4e8b9e44942c126a8a75abe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: copus_mat1
+    second: {fileID: 2100000, guid: 6e0afb6eebe76644d8b97bf549716b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: copus_mat3
+    second: {fileID: 2100000, guid: 844b53a657ec0be44b7e89e4bc6999e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cornea1
+    second: {fileID: 2100000, guid: b9f932c67a312354883552a01833d2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cornea3
+    second: {fileID: 2100000, guid: 64fc4a6b969763d4483b3f2565a98e57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cranial_nerves_mat1
+    second: {fileID: 2100000, guid: e7fb822a4d2a9e646b500e6934ccca27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cranial_nerves_mat3
+    second: {fileID: 2100000, guid: e69a720910cc444409809f56823b7b76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b520806cdc8040244bf5c43cf45d1cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: bdcfaae069355d5419cd24fdb76741b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 0b215776b92f0fe4e98b6cb8df4d8c27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: limbic_mat1
+    second: {fileID: 2100000, guid: 75f58bb5f99b0c348807bcb1b801639b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: limbic_mat3
+    second: {fileID: 2100000, guid: 95e0fd2e84280154f8b9d513eb64785f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: midbrain_mat1
+    second: {fileID: 2100000, guid: a6f09f02ebda62b47a32e44d1d068561, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: optic_chiasm_mat1
+    second: {fileID: 2100000, guid: d15d4f503f5c89e44b164e9291d7234f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: c2050d670e2683247b38c44ec9408714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: ff419292a6e1a1342affc630925b8d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE1
+    second: {fileID: 2100000, guid: ae813e5e20a63e24781271d35b258b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE2
+    second: {fileID: 2100000, guid: b4f45537fd746c3479a77b030a08b311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pons_mat1
+    second: {fileID: 2100000, guid: 0a7d9eccb42001342862f36339a4524b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spinal_cord_mat1
+    second: {fileID: 2100000, guid: fd37d5f2d238d4548af720798593ce2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth_mat1
+    second: {fileID: 2100000, guid: add0e77012fcb4b458d0744f2f7654f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth_mat3
+    second: {fileID: 2100000, guid: 0dc9059d82a00e642be2bca44b7e5cc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thalamus_mat1
+    second: {fileID: 2100000, guid: 469b129c2f95e1a409efe3c9acafd6a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thalamus_mat3
+    second: {fileID: 2100000, guid: 2237324788cfe0a458852a697756b2cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventricle_mat1
+    second: {fileID: 2100000, guid: 6e1ed1c73b764044392e2e8f7ce9d057, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
